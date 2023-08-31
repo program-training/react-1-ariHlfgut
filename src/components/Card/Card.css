@@ -1,0 +1,30 @@
+/* .r {
+  background-color: red;
+}
+.y {
+  background-color: yellow;
+}
+.b {
+  background-color: blue;
+} */
+/* Card.css */
+
+.card {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px;
+  background-color: white;
+  transition: background-color 0.3s ease-in-out;
+}
+
+.card.red {
+  background-color: red;
+}
+
+.card.blue {
+  background-color: blue;
+}
+
+.card.yellow {
+  background-color: yellow;
+}
